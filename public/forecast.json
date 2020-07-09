@@ -1,0 +1,46 @@
+{
+    "forecasts": [
+        {
+            "dayOfWeek": "Monday",
+            "min": 3,
+            "max": 12,
+            "description": "Mostly sunny"
+        },
+        {
+            "dayOfWeek": "Tuesday",
+            "min": 4,
+            "max": 12,
+            "description": "Cloudy"
+        },
+        {
+            "dayOfWeek": "Wednesday",
+            "min": 5,
+            "max": 12,
+            "description": "Partly cloudy"
+        },
+        {
+            "dayOfWeek": "Thursday",
+            "min": 5,
+            "max": 13,
+            "description": "Partly cloudy"
+        },
+        {
+            "dayOfWeek": "Friday",
+            "min": 5,
+            "max": 12,
+            "description": "Showers then sunny"
+        },
+        {
+            "dayOfWeek": "Saturday",
+            "min": 5,
+            "max": 12,
+            "description": "Showers then sunny"
+        },
+        {
+            "dayOfWeek": "Sunday",
+            "min": 3,
+            "max": 12,
+            "description": "Partly cloudy"
+        }
+    ]
+}
